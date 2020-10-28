@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Covid19 csv$#
+.~lock.covid19_tweets.csv#
